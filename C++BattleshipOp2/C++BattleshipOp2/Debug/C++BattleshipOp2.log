@@ -1,0 +1,5 @@
+﻿  PlayerIMP.cpp
+c:\users\jdric\desktop\cis221advancedc++\advancedc++hw\c++battleshipop2\c++battleshipop2\playerimp.cpp(19): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\jdric\desktop\cis221advancedc++\advancedc++hw\c++battleshipop2\c++battleshipop2\playerimp.cpp(104): warning C4715: 'Player::checkIfGameOver': not all control paths return a value
+  C++BattleshipOp2.vcxproj -> C:\Users\jdric\Desktop\CIS221AdvancedC++\AdvancedC++HW\C++BattleshipOp2\Debug\C++BattleshipOp2.exe
+  C++BattleshipOp2.vcxproj -> C:\Users\jdric\Desktop\CIS221AdvancedC++\AdvancedC++HW\C++BattleshipOp2\Debug\C++BattleshipOp2.pdb (Partial PDB)
